@@ -1,0 +1,82 @@
+---
+title: Career Summary
+category: Professional Background
+updated: 2025-04-28T08:58:00Z
+---
+
+
+# A Synopsis Of My Career To Date
+
+Creation Timestamp: 2025-04-28T18:59:25Z
+
+This is an abridged summary of my career to date, including experiences on my resume, those which aren't, and some information to give you some context about my personality. 
+
+Some of my first memories growing up were creating a family newsletter at a typewriter and I've never really lost the joy and love of creating things. Those things have changed over the course of my life. An unkind person might see this as picking up and putting down hobbies, I see it as a natural evolution of my creative direction.
+
+I studied law in university, although why I chose that subject has more to do with personal reasons and family circumstances than with actual career aspirations. I never practiced law nor do I hold any ambition to do so. 
+
+During my years in college, I studied at University College Cork in Ireland. I became involved in student journalism, which I really enjoyed. I set up a news website, which was the first on campus. I love interviewing people to try to make sense of events and stories, almost like piecing together miniature mysteries and narratives.
+
+I interned at an Irish news website during my undergraduate degree. By the time I finished my law degree, I was already planning my move to Israel. I'm Jewish and always aspired to move there. The question was really one of time. I did a postgraduate degree in City University in London, in political journalism, earning a master's degree. At the time, I was exploring political speech writing in particular.
+
+When I returned to Ireland after finishing the degree, I landed the first job on my resume, which was at a political technology startup. I managed marketing communications at a then very small company called Ecanvasser and Vconnecta. Like most jobs in early stage startups, I was wearing a lot of hats, sales, marketing, marketing, specifically things I did include as grading, support literature, social media management, things of this nature.
+
+I left the job at Vconnecta in order to move to Israel. A couple of experiences not on my resume because the tenures were short and it's not that relevant, I think, is a brief tenure at an internship at a mayor's office during my first summer and one editing copy for the Jerusalem Post newspaper. Those were interesting experiences but just paved the way for my first full-time job here.
+
+My first job in Israel was at a PR firm called Finn Partners where I was involved in supporting technical accounts. Duties included media monitoring, op-ed writing. My next position was managing marketing communications at Ayyeka, which is an industrial IoT company. My responsibilities at Ayyeka included managing social media for the company in conjunction with a colleague, taking the lead on writing content for our website and for off-site publication. This content would typically and commonly be thought leadership style content for technical publications.
+
+Ayyeka manufactures industrial IoT gateways, which were battery-powered gateway devices for installation in rugged environments, connecting industrial sensors through what, at the time, were very early-stage and innovative low-powered IoT radio networks like Zigbee. I authored and ghost-wrote content that appeared in industrial trade magazines for the CTO, CEO, and others in the company. One of the most interesting projects was writing a white paper about low-powered wide-area networks, which may seem like a very arcane and dry technical subject, but it was very interesting and involved close collaboration with the product team, learning about the intricacies of ensuring sufficient connectivity to IoT gateways to meet the demanding needs of industrial IoT operators.
+
+From a marketing perspective, this was a robust and challenging position. Naturally, industrial IoT gateways is not the most glamorous of subject materials at first glance, so it was very much a focus on creating good quality collateral. I was given responsibility for managing the company's website, which was a fun learning process as I had to really learn Git well. The website was hosted on AWS. I really enjoyed working with the development team. I worked with some amazing programmers, especially one I remember very fondly called Yaron, who took me under his wing and spent many hours with me debugging or teaching me the fundamentals of Git, which I use now on a daily basis, and although I'm mostly learning it from AI tools now, that was more fun. It was fun getting involved in technical projects!
+
+Another one I did was creating a sync process from our internal Google Drive to Dropbox. This was actually, like many tech projects, one of those things that seems really easy, but actually was a lot of work to set up. We had a very rigidly version-controlled and large document library of spec sheets and data sheets for the company, and we had a global distribution network spread out across the US of system integrators in turn working with municipalities. So t
+The purpose of me setting this up was to create a daily sync library to reliably provide up-to-date technical documentation throughout the company and throughout the continental US, from the West Coast to everywhere in between.
+
+Updating the website was another ongoing process. The company underwent a restructuring. Most of the marketing staff was laid off. I was preserved, but left shortly afterwards.
+
+After leaving IECA, I began working on a freelance basis. My journey into freelancing was entirely accidental. When I moved to Israel and was looking for a job, some of the first available positions I came across were freelance writing positions, which seemed like a natural connection with my background. In order to work these legally, I had to register as a self-employed individual, and I've kept the file open for almost 10 years now.
+
+I started out as an entirely self-managed operation. I now have an accountant and a bookkeeper, so things have evolved gradually. As a freelance writer, I initially focused on ghostwriting because over the course of my jobs in Israel and between jobs, I'd ended up doing quite a lot of ghostwriting work, and varied ghostwriting work. I'd written speeches and talking points for a political figure, trade magazine articles, my own writing, some of which was published in Byline Tech Publications, so I had enough of a portfolio to start with, and it just kind of kept accruing from there.
+
+Between the time I left IECA and when I started working for Sir Ronald Cohen, who I maintain a contractual work relationship with, I worked on a varied number of client accounts, which was quite an interesting journey. That gave me an interesting exposure to quite a few areas of technology. I provided communications to my former employer in Ireland, focused mostly on PR and thought leadership development. A couple of clients I can't disclose publicly, including in this context Repo as it's public, because this was part of the ghostwriting NDA. Cyber security leader in Israel through an agency. As well, most rewardingly, is some technology which I personally use and respect, including MSP360 and Perforce.
+
+I ended up doing virtually all of the types of writing deliverable one can do in B2B marketing, ranging from copy to thought leadership, although I retained a very strong focus on thought leadership. Although thought leadership gets criticised, it's personally an area that I enjoy doing when it's executed well, finding meaningful debates in the industry, very smart people who have intelligent things to say about them, and helping them communicate the message to the right audience. White papers were also an area that I did a number of.
+
+And as anyone who likes technology and works in a number of verticals ends up doing, you get an interesting insight into quite a number of different subjects, which is interesting. Probably the best example of this I have to offer is writing a white paper for a fintech company on the subject of internet communications at sea and how cruise operators had to find the best ones to ensure continuity of operations and profitability. This was interesting because I spent a number of years battling ISPs here in Israel due to the pre-fibre internet, which was often a serious impediment to my business. I once had to end a podcast interview because I had no connection.
+
+So, circuitously, I had gobbled up quite a bit of information from the internet about all manner of things related to unconventional internet access like satellite internet, bonding together internet connections, and strangely, I found myself writing about internet connectivity at sea both very interested and already knowing some of the background material.
+
+The fun part about doing projects like this is that what I found over time, really the key thing, the key tool in your arsenal is a simple audio recorder or, in its more modern incarnation, a zoom meeting recorded. Information really is all internal in the client, and it's just a question of getting it out. Frequently when working with people in the technology sector, this involves imposing your view of what's interesting on them but often opens up another frame of thinking. They might view some things that are potentially highly interesting as irrelevant and brush over things that potentially provoke interest or even criticism.
+
+A well-rounded interview often puts you in the position of feeling like an inquisitor or a hostile entity, but it's done to extract as much information from the client as possible to tell their story as effectively as possible and, in the case of communications, to prepare them as effectively as possible for real interviews.
+I pivoted back towards employment, mostly because my business was pulling in that direction. The year that I joined Sir Ronald, I had a couple of client accounts that were much more substantial than a typical small freelance engagement. One, a 50% time commitment to a learning and development platform. And although I really enjoyed the freedom of freelancing, my personal belief is that freelancing contract jobs is just the way forward. I think that it makes sense that people will have less traditional career trajectories and empl
+yment than might have been the case in the past. And being based in Israel as an English speaker, it's also the idea of being able to work with anyone anywhere in the world legally is an incredibly powerful possibility.
+
+The main thing that I disliked about freelancing, continued to do so, is all the work that comes with it, which is uncompensated. Things like opening and closing client accounts, maintaining records, maintaining expense accounts, accounting, that even when you have professionals, much of it tends to fall on your shoulder. It was kind of exhausting and when I began consolidating my client list, it felt like a relief and nice to move back towards working relationships where you weren't just a freelancer in a roster, but rather a significant part of the team.
+
+The next item and opportunity in my resume is working with Sir Ronald Cohen, who is a noted figure in the world of impact investing. 
+
+This was and has been a very interesting opportunity. 
+
+I believe I told Sir Ronald before working with him that although my background in finance involved reading overly enthusiastically the Financial Times when I was open to all manner of ideas as to what my career might be, having worked with lots of different technology vendors over the past number of years, I had the gnawing feeling I still do that ...while many of the individual tools are great, there has to be a bigger picture, a picture of all this innovation and progress technologically being about moving towards doing good for the world and not just enriching individuals or their shareholders. 
+
+And that was what attracted me about the vision of Sir Ronald, who has a very specific theory of change about how companies value their impacts much as they do their financial accounts. It would create an overall fairer and more realistic economic system in which companies that did well were more profitable and those that polluted more and did worse were less so.
+
+Through working at different technology companies, I've done different things and tend to take a somewhat wide and hands-on view of what meaningful communications work is. There are areas that I know are not my strong points, like SEO for example, or which speak less to me. So my work with Sir Ronald was starting from the highest level of how to advance the communications of the mission and going down to the more execution-based level of what things to post on social media.
+
+It was very interesting compared to previous jobs because in the course of my career I'd worked contractually with enterprises, worked in-house for small businesses and done hybrid jobs, some of which I even forgot to mention in this summary, like working at a web monitoring company. So I'd done essentially every permutation except for working for an individual, which is a very strange mixture in that it's not strictly a non-profit government company, it's a different entity that has its own pros and its own cons.
+
+For the first year working with Sir Ronald, some of it was getting up to speed with the industry, creating a basic plan for communications, some of it reactive in the sense preparing for podcast appearances and interviews.
+I also developed a YouTube channel during my time in Israel, which subsequently monetized. So, I was able to use my video skills to record messages for conferences for Sir Ronald that got shown around the world. This is still a part of my services.
+
+Interesting facets of working with Sir Ronald and specific ways in which it developed my career: Working in a remote-first environment was a relationship I was familiar with. But the irregular nature of our meetings, usually once a week, posed a particular demand for organisation skills. And creating very well organised and precise weekly agendas and briefs, which is a good skill to have. I certainly improved that, or I hope so. 
+
+Compared to working with technology companies who were eager to make a name for themselves or sell a product, this was also quite a different situation in that we were, Sir Ronald is selling his ideology, first and foremost, and already well established. During the time working with him, I worked with a number of organisations that he's affiliated with: The Global Steering Group for Impact Investment and the International Foundation for Valuing Impacts.
+
+During the last year and a bit, my work shifted significantly in the direction of preparing the groundwork for the release of a set of value factors by the International Foundation for Valuing Impacts. These value factors, called the Global Value Factors Database, were released last year during UN Climate Week. And created a geographically segmented set of value factors for approximating the financial impact of non-financial impacts, specifically in the realm of environmental effects and social impacts in monetary terms.
+
+From approximately January 2024, I began working on data visualisation projects using some of the preceding data from the IWAI project to create collateral to explain the utility of impact accounting. Collateral created included YouTube videos, visualisations created from data dashboards. The significant focus of the last half year of my work was preparing for the launch of these value factors at UN Climate Week.
+
+I took the lead on the digital organisation of the launch event, involving amalgamating a CRM system from a number of different organisations through to the technical implementation of creating the check-in system for registrations on the day. Through to, I thought, a creative use of AI in creating summaries of registrants through workflows that I created with Zapier in order to provide the organisation team with biographical background information on the attendees to make sure the different stakeholder groups were represented. And we had a visibility into the attendees better than just email addresses and names.
+
+I also used AI extensively in the preparation of the event for ideating communications, briefing on talking points, and other things of this nature.

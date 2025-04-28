@@ -1,0 +1,224 @@
+{
+  "basics": {
+    "name": "Daniel Rosehill",
+    "label": "Communications & Technical Professional",
+    "email": "public@danielrosehill.com",
+    "phone": "",
+    "website": "http://danielrosehill.com",
+    "summary": "A versatile communications professional with over a decade of experience bridging technical and business domains. Specialized in technical writing, documentation, and strategic communications for complex technology products. Passionate about artificial intelligence, with expertise in RAG systems, prompt engineering, AI agents, and LLM evaluations. Proven track record in developing comprehensive content strategies, managing knowledge bases, and delivering clear, impactful communication solutions across cybersecurity, cloud computing, and emerging technologies.",
+    "location": {
+      "city": "",
+      "countryCode": "IL",
+      "region": "Israel"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "danielrosehill",
+        "url": "http://danielrosehill.com"
+      },
+      {
+        "network": "GitHub",
+        "username": "danielrosehill",
+        "url": "http://danielrosehill.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DSR Holdings",
+      "position": "Independent Consultant",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2025-03-19",
+      "summary": "Providing technical communication and consulting services across diverse industries.",
+      "highlights": [
+        "Develop comprehensive technical communications for businesses exploring AI technologies",
+        "Create documentation and user guides for complex technical systems and products",
+        "Implement prompt engineering solutions to enhance AI tools and workflows",
+        "Provide expert consulting services across diverse industries including cybersecurity, threat intelligence, cloud computing, and IoT",
+        "Develop comprehensive marketing communications collateral",
+        "Drive content strategy and implementation for multiple clients"
+      ],
+      "location": "Israel"
+    },
+    {
+      "company": "Sir Ronald Cohen",
+      "position": "Communications Manager",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "2025-02-28",
+      "summary": "Led strategic communications for a globally recognized pioneer in impact investing.",
+      "highlights": [
+        "Led strategic communications for a globally recognized pioneer in impact investing",
+        "Collaborated with the International Foundation for Valuing Impacts (IFVI) team on data visualization and analysis",
+        "Developed and implemented comprehensive communication strategies",
+        "Created compelling content for various platforms and audiences",
+        "Managed stakeholder relationships and media engagement"
+      ],
+      "location": "Global"
+    },
+    {
+      "company": "AYYEKA",
+      "position": "Marketing Communications Manager",
+      "website": "",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Led marketing communications for an industrial IoT (IIoT) company.",
+      "highlights": [
+        "Led marketing communications for an industrial IoT (IIoT) company",
+        "Authored technical white papers on low-energy communications networks",
+        "Managed and maintained company's Confluence knowledge base"
+      ],
+      "location": "Jerusalem, Israel"
+    }
+  ],
+  "education": [
+    {
+      "institution": "City University London",
+      "area": "Political Journalism",
+      "studyType": "MA",
+      "startDate": "2010-01-01",
+      "endDate": "2011-12-31",
+      "gpa": "",
+      "courses": [
+        "Focused on political reporting and analysis",
+        "Developed expertise in journalism ethics and practices",
+        "Completed practical assignments in political coverage",
+        "Gained hands-on experience in digital journalism"
+      ],
+      "location": "London, UK"
+    },
+    {
+      "institution": "University College Cork",
+      "area": "Law",
+      "studyType": "BCL",
+      "startDate": "2006-01-01",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": [
+        "Comprehensive study of legal principles and practices",
+        "Developed strong analytical and research skills",
+        "Focus on technology law and regulations",
+        "Built foundation in legal writing and analysis"
+      ],
+      "location": "Cork, Ireland"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Communication",
+      "level": "Advanced",
+      "keywords": [
+        "Technical Writing",
+        "Documentation",
+        "Knowledge Management",
+        "User Guides",
+        "API Documentation",
+        "Knowledge Bases",
+        "Technical Blogs"
+      ]
+    },
+    {
+      "name": "Development & Tools",
+      "level": "Advanced",
+      "keywords": [
+        "GitHub",
+        "Markdown",
+        "Documentation as Code",
+        "Confluence",
+        "GitHub Pages",
+        "Static Site Generators"
+      ]
+    },
+    {
+      "name": "Systems & Infrastructure",
+      "level": "Advanced",
+      "keywords": [
+        "Linux (20+ years)",
+        "Docker",
+        "Bash Scripting",
+        "GCP",
+        "System Prompts",
+        "Ubuntu",
+        "OpenSUSE",
+        "System Administration"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "level": "Advanced",
+      "keywords": [
+        "RAG Systems",
+        "AI Agents",
+        "Prompt Engineering",
+        "LangChain",
+        "OpenAI",
+        "Anthropic",
+        "Gemini",
+        "Cohere",
+        "Ollama",
+        "Vector DBs (Weaviate, ChromaDB)",
+        "AI Workflows",
+        "GPT Models",
+        "Claude",
+        "LM Studio",
+        "Context Design",
+        "Output Formatting",
+        "Chain-of-Thought",
+        "Few-Shot Learning",
+        "Dify.ai",
+        "API Integration",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "name": "Data & Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Writing",
+      "keywords": [
+        "Technical writing",
+        "Content creation",
+        "Blogging"
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": [
+        "Open source",
+        "Linux",
+        "Cloud computing"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "theme": "elegant",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
